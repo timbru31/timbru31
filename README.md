@@ -54,6 +54,7 @@ I also create tools and utilities to simplify workflows:
 - 🐙 GitHub: Explore my repositories here!
 - 🐋 Docker Hub: [timbru31](https://hub.docker.com/u/timbru31)
 - 🌐 Website: [dustplanet.de](https://dustplanet.de)
+- 🎮 Discord: [Dustplanet](https://discord.gg/E7EW7enzAZ)
 - 💬 Connect: Feel free to reach out to discuss open source, clean code, or anything tech-related!
 
 ---
